@@ -1,0 +1,4 @@
+Sistem Programlama Dersi icin "Webbrowser" uygulamasi olusturulacaktir.
+Uygulamamizin kaynak kodlari ilerleyen haftalarda eklenecektir.
+Uygulamamiz Linux tabanli isletim sistemleri icin,
+Python yazilim dili kullanilarak gelistirilecektir.
